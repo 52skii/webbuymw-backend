@@ -1,3 +1,21 @@
-firebaseServiceAccountKey.json
+# Node.js modules
 node_modules
+
+# Environment variables
 .env
+
+# Firebase service account key
+firebaseServiceAccountKey.json
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Optional OS files
+.DS_Store
+
+# Coverage directory used by testing tools
+coverage
+
+# Build output (if any in the future)
+dist
